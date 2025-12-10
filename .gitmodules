@@ -1,0 +1,6 @@
+[submodule "Mikrus.Frontend.Angular"]
+	path = Mikrus.Frontend.Angular
+	url = https://github.com/Krzaczek24/Mikrus.Frontend.Angular.git
+[submodule "Mikrus.WebAPI"]
+	path = Mikrus.WebAPI
+	url = https://github.com/Krzaczek24/Mikrus.WebAPI.git
